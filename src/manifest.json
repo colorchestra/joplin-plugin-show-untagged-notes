@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.colorchestra.joplin-plugin-show-untagged-notes",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "Show untagged notes",
+	"description": "Hides all notes that have tags and shows you only those that don&#39;t. This makes it easy to work through a notebook full of things that need to be tagged, without losing track of your progress.",
+	"author": "github.com/colorchestra",
+	"homepage_url": "https://github.com/colorchestra/joplin-plugin-show-untagged-notes",
+	"repository_url": "https://github.com/colorchestra/joplin-plugin-show-untagged-notes",
+	"keywords": [],
+	"categories": []
+}
