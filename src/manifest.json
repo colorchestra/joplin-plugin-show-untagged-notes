@@ -8,6 +8,7 @@
 	"author": "github.com/colorchestra",
 	"homepage_url": "https://github.com/colorchestra/joplin-plugin-show-untagged-notes",
 	"repository_url": "https://github.com/colorchestra/joplin-plugin-show-untagged-notes",
-	"keywords": [],
-	"categories": []
+	"keywords": ["tags", "tagging"],
+	"categories": ["organization", "productivity"],
+	"screenshots": []
 }
